@@ -1,1 +1,1 @@
-Criando um contador com o JavaScript para treino de estrutura de repetição!
+Criado com base no canal Curso em Video, como treino em JavaScript!
